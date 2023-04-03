@@ -2,6 +2,8 @@
 
 - This is a simple single page application built using HTML, CSS, and JavaScript that includes four pages: Home, About, Services, and Images. The application uses the History API to update the URL and allow users to navigate between pages without reloading the site.
 
+- [Deploy Link](https://venerable-cocada-7b6bfb.netlify.app/)
+
 ## How to Use
 - To use the application, simply open the `` index.html `` file in your web browser. The application will load the Home page by default. To navigate to the other pages, use the navigation menu at the top of the screen. Clicking on a menu item will load the corresponding page without reloading the site and will update the URL accordingly.
 
