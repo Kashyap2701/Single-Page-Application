@@ -2,7 +2,7 @@
 let services = 
 `<section id="services" class="container mt-3">
 <h1 class="text-center mb-5">Services that We Provide</h1>
-<div class="card-container d-flex justify-content-around mb-4">
+<div class="card-container align-items-center d-flex flex-md-row flex-column d-flex justify-content-around mb-4">
   <div class="card" style="width: 18rem;">
     <img height="150px" src="./images/web-dev.jpeg" class="card-img-top" alt="...">
     <div class="card-body">
@@ -25,7 +25,7 @@ let services =
     </div>
   </div>
 </div>
-<div class="card-container d-flex justify-content-around mb-4">
+<div class="card-container align-items-center d-flex flex-md-row flex-column d-flex justify-content-around mb-4">
   <div class="card" style="width: 18rem;">
     <img height="150px" src="./images/IoT-development.jpg" class="card-img-top" alt="...">
     <div class="card-body">
